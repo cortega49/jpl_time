@@ -1,3 +1,0 @@
-"""
-JPL time module
-"""
